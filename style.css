@@ -1,0 +1,17 @@
+.container {
+    padding: 5px;
+    border: 2px solid purple;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    overflow: scroll;
+}
+
+.container div {
+    padding: 5px;
+}
+
+.container div img {
+    width: 200px;
+    height: 225px;
+}
